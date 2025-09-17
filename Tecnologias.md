@@ -7,7 +7,7 @@
 - Laravel
 
 ### Base de Datos
-- MySQL
+- Firebase
 
 ### Frontend
 - Tailwind
