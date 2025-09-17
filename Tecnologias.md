@@ -11,7 +11,6 @@
 
 ### Frontend
 - Tailwind
-- Bootstrap
 
 ### IDE
 - Visual Studio Code
