@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,42 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Carnicería Esmart
+
+Aplicación web desarrollada con **Laravel 10**, **Tailwind CSS**, **Bootstrap** y **MySQL** para la gestión de una carnicería.
+
+---
+
+## 💻 Tecnologías
+
+- **Backend:** PHP, Laravel
+- **Base de datos:** MySQL
+- **Frontend:** Tailwind CSS, Bootstrap
+- **IDE recomendado:** Visual Studio Code
+- **Node.js** para compilación de assets
+
+---
+
+## 📦 Requisitos previos
+
+Antes de instalar el proyecto, asegúrate de tener:
+
+- PHP >= 8.1
+- Composer
+- Node.js y npm
+- MySQL
+- Git
+
+---
+
+## 🚀 Instalación
+
+Clona el repositorio:
+
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd CarniceriaEsmart
+
+
+>>>>>>> 7d1f875c54451eb6ea63dbdc3fb519fa8d1dd841
